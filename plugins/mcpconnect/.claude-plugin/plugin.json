@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "mcpconnect",
+  "description": "Build MCP servers in Delphi with MCPConnect: create a new server (stdio, WebBroker or Indy), add tools, resources, templates, App UIs and prompts, and set up sessions, notifications and OAuth security.",
+  "version": "1.0.0",
+  "author": {
+    "name": "delphi-blocks",
+    "url": "https://github.com/delphi-blocks"
+  },
+  "homepage": "https://github.com/delphi-blocks/MCPConnect",
+  "license": "MIT",
+  "keywords": [
+    "delphi",
+    "pascal",
+    "object-pascal",
+    "mcp",
+    "mcpconnect",
+    "model-context-protocol"
+  ]
+}
